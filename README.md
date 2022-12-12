@@ -1,7 +1,4 @@
-# Projet2-Openclassrooms
-Parcours Data Science
-
-Projet n°2 : "Analysez des données de systèmes éducatifs"
+# Projet 2 - Parcours Data Science - Analysez des données de systèmes éducatifs
 
 ## Description du projet 
 Projet de manipulations de données à partir de données de la banque mondiale. 
